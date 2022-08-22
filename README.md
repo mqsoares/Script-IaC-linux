@@ -1,0 +1,1 @@
+# Script-estrutura-permiss-es-usuarios-linux
