@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<p> Neste projeto criamos um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões são criados automaticamente. Sendo assim, podemos fazer reutilizações do script, sempre que precisarmos, basta executar o script.</p>
+<p> Neste projeto criamos um Arquivo de Bash Script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões são criados automaticamente. Sendo assim, podemos fazer reutilizações do script, sempre que precisarmos, basta executar o script.</p>
 
 <br>
 
