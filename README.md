@@ -19,7 +19,11 @@
 <br>
 <br>
 
-<p> Neste projeto criamos um Arquivo de Bash Script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões são criados automaticamente. Sendo assim, podemos fazer reutilizações do script, sempre que precisarmos, basta executar o script.</p>
+<p> Neste projeto criamos um Arquivo de Bash Script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões são criados automaticamente. Assim, podemos fazer reutilizações do script, sempre que precisarmos, basta executar o script.</p>
+
+<br>
+
+<p> Segundo a Red Hat, Infraestrutura como código (IaC) é o gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais. Com a IaC, são criados arquivos de configuração que incluem as especificações da sua infraestrutura, facilitando a edição e a distribuição de configurações.</p>
 
 <br>
 
