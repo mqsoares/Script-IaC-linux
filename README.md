@@ -1,6 +1,6 @@
 <div align='center'>
-  
-   <h1>Script para Criar Estrutura de Usuários, <br>Diretórios e Permissões - LINUX</h1>
+
+<h1> Bootcamp Linux Experience - DIO.me </h1>
   
 <br>
   
@@ -29,7 +29,9 @@
 
 </div> 
 
-<h2>iac.sh - Diretórios, Grupos, Usuários e Permissões </h3>
+<h2>iac.sh - Diretórios, Grupos, Usuários e Permissões </h2>
+<p>Script para Criar Estrutura de Usuários, Diretórios e Permissões</p>
+
 
 ```
 - O dono de todos os diretórios criados será o usuário root;
